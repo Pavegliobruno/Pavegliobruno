@@ -18,7 +18,7 @@
   <code><a href="https://nodejs.org" target="_blank"> <img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" alt="nodejs" height="30"/></a></code>
   <code><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" height="30"/></a></code>
   <code><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a></code>
-  <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://memo8.com/wp-content/uploads/2020/05/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg-e1588311798927.jpg" alt="mongodb" height="30"/></a></code>
   
    <code><a href="https://www.coreldraw.com/" target="_blank"> <img src="http://3.bp.blogspot.com/-X9quyToD8jo/VeR1h_gH8EI/AAAAAAAAA3o/RpSj502a7gM/s1600/Logo%2Bde%2BCorelDRAW%2BX7.png" alt="corel" height="30"/></a></code>
   <code><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="30"/></a></code>
