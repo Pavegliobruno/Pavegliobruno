@@ -2,7 +2,7 @@
   <a href="#" ><img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif"/></a>
 </p>
 
-<h1 align="center">Hey i'm Bruno</h1>
+<h1 align="center" width=75%>Hey! I'm Bruno</h1>
 
 <h3 align="center">I am full stack developer, a proactive person committed to do what I propose with a big motivation to learn new technologies and improve my knowledge.</h3>
 
