@@ -1,5 +1,4 @@
-<div class="tenor-gif-embed" data-postid="16921676" data-share-method="host" data-width="100%" data-aspect-ratio="2.6774193548387095"><a href="https://tenor.com/view/loop-space-stars-gif-16921676">Loop Space GIF</a> from <a href="https://tenor.com/search/loop-gifs">Loop GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div class="tenor-gif-embed" data-postid="16921676" data-share-method="host" data-width="100%" data-aspect-ratio="2.6774193548387095"><a href="https://tenor.com/view/loop-space-stars-gif-16921676"></div>
 <h1 align="center">Hey i'm Bruno</h1>
 
 <h3 align="center">I am full stack developer, a proactive person committed to do what I propose with a big motivation to learn new technologies and improve my knowledge.</h3>
