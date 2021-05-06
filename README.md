@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" ><img src="https://tenor.com/bjagq.gif" /></a>
+  <a href="#" ><img src="https://tenor.com/es/ver/loop-space-stars-gif-16921676" /></a>
 </p>
 
 <h1 align="center">Hey i'm Bruno</h1>
