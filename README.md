@@ -4,7 +4,8 @@
 
 <h1 align="center" width=75%>Hey! I'm Bruno</h1>
 
-<h3 align="center">I am full stack developer, a proactive person committed to do what I propose with a big motivation to learn new technologies and improve my knowledge.</h3>
+<h3 align="center">I am full stack developer, a proactive person committed to do what I propose</h3>
+<h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
 <h5>Lenguages and Tools:</h5>
 <p align="left">
