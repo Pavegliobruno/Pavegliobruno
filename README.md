@@ -35,24 +35,21 @@
 <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Store! - E-commerce </a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://atlas-store.netlify.app/" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620505278/Proyects/WhatsApp_Image_2021-05-06_at_16.34.36_wckzj5.jpg" width="500" /></a>
+<a href="https://" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620505278/Proyects/WhatsApp_Image_2021-05-06_at_16.34.36_wckzj5.jpg" width="500" /></a>
 
 <a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Videogames!</a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620505242/Proyects/Proyecto_Individual_qgppfq.png" width="500" /></a>
+<a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620505242/Proyects/Proyecto_Individual_qgppfq.png" width="500" /></a>
 
 <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://" width="500" /></a>
+<a href="https://" ><img align="center" src="https://" width="500" /></a>
 
 
 <h5>Contact:</h5>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620257776~hmac=007d78eddeb122fe019a4789dfc1f036" alt="s" height="30"/></a></code>
-  
   <code><a href="https://" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/3135/3135731.svg?token=exp=1620506511~hmac=3b0bad16a136ed8ea899a7164e38ca1b" alt="s" height="30"/></a></code>
-
-
 </p>
