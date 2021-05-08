@@ -51,6 +51,8 @@
 <h5>Contact:</h5>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620257776~hmac=007d78eddeb122fe019a4789dfc1f036" alt="s" height="30"/></a></code>
+  
+  <code><a href="https://" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/3135/3135731.svg?token=exp=1620506511~hmac=3b0bad16a136ed8ea899a7164e38ca1b" alt="s" height="30"/></a></code>
 
 
 </p>
