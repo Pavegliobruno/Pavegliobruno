@@ -7,7 +7,7 @@
 <h3 align="center">I am full stack developer, a proactive person committed to do what I propose</h3>
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
-<h5>Lenguages and Tools:</h5>
+## Lenguages and Tools:
 <p align="left">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/></a> JavaScript</code>
   <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> HTML</code>
