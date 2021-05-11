@@ -2,7 +2,7 @@
   <a href="#" ><img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif"/></a>
 </p>
 
-<h1 align="center" width=75%>Hey! I'm Bruno <img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
+<h1 align="center" width=75%>Hey! I'm Bruno <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
 <h3 align="center">I am full stack developer, a proactive person committed to do what I propose</h3>
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
