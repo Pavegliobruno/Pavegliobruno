@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center" width=75%>Hey! I'm Bruno <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
-<h3 align="center" width="30">I'm full stack developer, a proactive person committed to do what I propose</h3>
+<h3 align="center">I'm full stack developer, a proactive person committed to do what I propose</h3>
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
 
-<h3> Lenguages and Tools: </h3>
+<h3> > Lenguages and Tools: </h3>
 
 <p align="left">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/></a> JavaScript</code>
@@ -31,7 +31,7 @@
 </p>
 
 
-<h3> My projects: </h3>
+<h3> > My projects: </h3>
 <p align="left">
 
 <a href="https://github.com/josegarrera/ecommerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Store! - E-commerce </a>
@@ -50,7 +50,7 @@
 <a href="https://" ><img align="center" src="https://" width="500" /></a>
 
 
-<h3> Where to find me: </h3>
+<h3> > Where to find me: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620257776~hmac=007d78eddeb122fe019a4789dfc1f036" alt="s" height="30"/></a></code>
   <code><a href="https://" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/3135/3135731.svg?token=exp=1620506511~hmac=3b0bad16a136ed8ea899a7164e38ca1b" alt="s" height="30"/></a></code>
