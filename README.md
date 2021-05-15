@@ -6,7 +6,6 @@
 <h3 align="center">I'm full stack developer, a proactive person committed to do what I propose</h3>
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
-
 <h3> > Lenguages and Tools: </h3>
 
 <p align="left">
@@ -24,12 +23,9 @@
    <code><a href="https://www.coreldraw.com/" target="_blank"> <img src="http://3.bp.blogspot.com/-X9quyToD8jo/VeR1h_gH8EI/AAAAAAAAA3o/RpSj502a7gM/s1600/Logo%2Bde%2BCorelDRAW%2BX7.png" alt="corel" height="30"/></a> CorelDraw</code>
   <code><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="30"/></a> Photoshop</code>
   <code><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/></a> Figma</code>
-  
-  
 
 
 </p>
-
 
 <h3> > My projects: </h3>
 <p align="left">
@@ -47,8 +43,7 @@
 <a href="https://" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather-App </a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://" ><img align="center" src="https://" width="500" /></a>
-
+<a href="https://" ><img align="center" src="https://images.unsplash.com/photo-1584824486516-0555a07fc511?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" width="500" /></a>
 
 <h3> > Where to find me: </h3>
 <p align="left">
