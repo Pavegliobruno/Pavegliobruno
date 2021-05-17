@@ -2,9 +2,17 @@
   <a href="#" ><img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif"/></a>
 </p>
 
-<h1 align="center" width=75%>Hey! I'm Bruno <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
+<h1 align="center" width=75%>Hey! I'm Bruno Paveglio <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620770700/Proyects/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb_ezhs2f.png" width="30" /> </h1>
 <h3 align="center">I'm full stack developer, a proactive person committed to do what I propose</h3>
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
+
+
+<h3> > Where to find me: </h3>
+<p align="left">
+  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620257776~hmac=007d78eddeb122fe019a4789dfc1f036" alt="Linkedin" height="30"/></a></code>
+  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/3135/3135731.svg?token=exp=1620506511~hmac=3b0bad16a136ed8ea899a7164e38ca1b" alt="CV" height="30"/></a></code>
+</p>
+
 
 <h3> > Lenguages and Tools: </h3>
 
@@ -24,14 +32,9 @@
   <code><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="30"/></a> Photoshop</code>
   <code><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/></a> Figma</code>
 
-
 </p>
 
-<h3> > Where to find me: </h3>
-<p align="left">
-  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620257776~hmac=007d78eddeb122fe019a4789dfc1f036" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/3135/3135731.svg?token=exp=1620506511~hmac=3b0bad16a136ed8ea899a7164e38ca1b" alt="CV" height="30"/></a></code>
-</p>
+
 
 <h3> > My projects: </h3>
 <p align="left">
