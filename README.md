@@ -9,8 +9,8 @@
 
 <h3> > Where to find me: </h3>
 <p align="left">
-  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1620257776~hmac=007d78eddeb122fe019a4789dfc1f036" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://www.flaticon.es/svg/vstatic/svg/3135/3135731.svg?token=exp=1620506511~hmac=3b0bad16a136ed8ea899a7164e38ca1b" alt="CV" height="30"/></a></code>
+  <code><a href="https://www.linkedin.com/in/pavegliobruno/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
+  <code><a href="https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
 </p>
 
 
