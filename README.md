@@ -42,3 +42,7 @@ I'm full stack developer, a proactive person committed to do what I propose with
    
    - Videogames! [(Github)](https://github.com/Pavegliobruno/Videogames)
    <img align="center" src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1620505242/Proyects/Proyecto_Individual_qgppfq.png" width="500" />
+
+### Contact me:
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.brunopaveglio.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavegliobruno/)
