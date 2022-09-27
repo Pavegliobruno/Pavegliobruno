@@ -6,7 +6,7 @@ I'm full stack developer, a proactive person committed to do what I propose with
 ### Where to find me:
 - LinkedIn: [https://www.linkedin.com/in/pavegliobruno/](https://www.linkedin.com/in/pavegliobruno/)
 - E-mail: [pavegliobruno@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=pavegliobruno@gmail.com&tf=cm)
-- CV: [Español](https://drive.google.com/drive/folders/1ltpZjk-YCHUSK4JWtLGcPSjjm98nLtOa?usp=sharing)
+- CV: [Español](https://drive.google.com/file/d/11qDxenYfjUlorWzTBWqJTCqOrEuB3q1i/view?usp=sharing) / [English](https://drive.google.com/file/d/1psgngp6vS0POc8rwKYJUzGEEE1GOSLc8/view?usp=sharing)
 
 
 ### Lenguages and Tools:
